@@ -1,5 +1,3 @@
-# Solar Alt Service (Nigeria-ready)
-
 Purpose: Provide Solar-API-shaped outputs anywhere, including Nigeria, using open/global data.
 - NASA POWER for irradiance (GHI, DNI, DHI).
 - PVGIS for PV energy yield (monthly + annual).
